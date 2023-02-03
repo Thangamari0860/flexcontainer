@@ -1,0 +1,343 @@
+#row{
+     background-color:lightgreen;
+	 color:blue;
+	 display:flex;
+	 padding:12px;
+	 flex-direction:row;
+	 
+	 
+	 }
+	 
+.aa{
+	background-color:yellow;
+	color:blue;
+	
+padding:12px;
+}
+
+.ab{
+	background-color:black;
+	color:red;
+	
+padding:12px;
+}
+
+.ac{
+	background-color:green;
+	color:blue;
+	
+padding:12px;
+}
+
+.ad{
+	background-color:black;
+	color:pink;
+	
+padding:12px;
+}
+
+#row-reverse{
+     background-color:#a9fc03;
+	 color:#3b4032;
+	 padding:12px;
+	 flex-direction:row-reverse;
+	 display:flex;
+	 
+	 }
+	 
+.a{
+	background-color:#8ea3ab;
+	color:blue;
+	
+padding:12px;
+}
+
+.b{
+	background-color:#cc93c7;
+	color:red;
+	
+padding:12px;
+}
+
+.c{
+	background-color:#9c2819;
+	color:blue;
+	
+padding:12px;
+}
+
+.e{
+	background-color:#ab931a;
+	color:pink;
+	
+padding:12px;
+}
+
+#column{
+	background-color:#2b4566;
+	color:#341b42
+	display:flex;
+	padding:12px;
+	flex-direction:column;
+	
+	
+}
+.g{
+	background-color:#e8b41a;
+	color:#181621;
+	
+	padding:15px;
+}
+
+.o{
+	background-color:#488a6a;
+	color:#73cc50;
+	
+	padding:15px;
+}
+
+.l{
+	background-color:#48571d;
+	color:#8a0a32;
+	
+	padding:15px;
+}
+
+.d{
+	background-color:#7b2180;
+	color:#73cc50;
+	
+	padding:15px;
+}
+
+
+
+#column-reverse{
+	background-color:#2b4566;
+	color:#341b42;
+	display:flex;
+	padding:12px;
+	flex-direction:column-reverse;
+	
+	
+}
+.gl{
+	background-color:#e8b41a;
+	color:#181621;
+	
+	padding:15px;
+}
+
+.od{
+	background-color:#488a6a;
+	color:#73cc50;
+	
+	padding:15px;
+}
+
+.lg{
+	background-color:#48571d;
+	color:#8a0a32;
+	
+	padding:15px;
+}
+
+.dg{
+	background-color:#7b2180;
+	color:#73cc50;
+	
+	padding:15px;
+}
+
+
+#wrap{
+	background-color:#7F7B55;
+	color:#351A28;
+	padding:12px;
+	flex-wrap:wrap;
+	
+}
+	
+
+#ee{
+	background-color:#7F7B55;
+	color:#351A28;
+	 padding:12px;
+	 flex-direction:column-reverse;
+	 display:flex;
+	 
+	 }
+	
+
+
+.T{
+	background-color:#80915B; 
+	color:#351A28; 
+	
+	padding:15px;
+}
+
+.H{
+	background-color:#12B381; 
+	color:#351A28; 
+	
+	padding:15px;
+}
+	
+#flow{
+	background-color:#6832a8;
+	color:#d12cb0;
+	padding:12px;
+	flex-flow:row-reverse;
+}	
+
+.car1{
+	background-color:#4b67c4;
+	color:#f024bd;
+	display:flex;
+	text-align:center;
+	align-self:stretch;
+	width:400px;
+	margin:10px;
+	height:200px;
+	}	
+
+.bike{
+	background-color:#4b67c4;
+	color:#f024bd;
+	display:flex;
+	font:15px sans-serif;
+	text-align:center;
+	align-items:center;
+	height:500px;
+	width:400px;
+	margin:10px;
+}
+
+.bens{
+	background-color:#4b67c4;
+	color:#f024bd;
+	display:flex;
+	font:15px sans-serif;
+	text-align:center;
+	align-items:start;
+	height:500px;
+	width:400px;
+	margin:10px;
+}
+
+.bullet{
+	background-color:#4b67c4;
+	color:#f024bd;
+	display:flex;
+	font:15px sans-serif;
+	text-align:center;
+	align-items:end;
+	height:500px;
+	width:400px;
+	margin:10px;
+}
+
+.go{
+	background-color:#4b67c4;
+	color:#f024bd;
+	align-content:flex-start;
+	display:flex;
+	flex-wrap:wrap;
+	height:500px;
+}
+
+.z{
+	background-color:#EF2990;
+	padding:10px;
+	margin:10px;
+	width:200px;
+}
+
+		
+.gai{
+	background-color:#4b67c4;
+	color:#f024bd;
+	align-content:flex-end;
+	display:flex;
+	flex-wrap:wrap;
+	height:500px;
+}	
+
+.cont1{
+	background-color:#EF2990;
+	padding:10px;
+	margin:10px;
+	height:100px;
+	width:200px;
+}	
+
+.rain{
+	background-color:#4b67c4;
+	color:#f024bd;
+	align-content:space-around;
+	display:flex;
+	flex-wrap:wrap;
+	height:500px;
+}
+
+
+.cont2{
+	background-color:#EF2990;
+	padding:10px;
+	margin:10px;
+	width:200px;
+}
+
+.moon{
+	background-color:#4b67c4;
+	color:#f024bd;
+	align-content:space-between;
+	display:flex;
+	flex-wrap:wrap;
+	height:500px;
+}
+
+
+.cont3{
+	background-color:#EF2990;
+	padding:10px;
+	margin:10px;
+	width:200px;
+}
+
+.food{
+	background-color:#4b67c4;
+	color:#f024bd;
+	align-content:space-evenly;
+	display:flex;
+	flex-wrap:wrap;
+	height:500px;
+}
+
+
+.cont4{
+	background-color:#EF2990;
+	padding:10px;
+	margin:10px;
+	width:200px;
+}
+
+
+
+.king{
+	background-color:#4b67c4;
+	color:#f024bd;
+	align-content:center;
+	display:flex;
+	flex-wrap:wrap;
+	height:500px;
+}
+
+
+.cont5{
+	background-color:#EF2990;
+	padding:10px;
+	margin:10px;
+	width:200px;
+}								
